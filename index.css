@@ -1,0 +1,45 @@
+header{
+	width: 100%;
+}
+
+.header {
+	font-size: 50px;
+	font-family: arial;
+	border: double black 8px;
+	padding: 20px;
+	width: 25%;
+	height: 150px;
+	margin: 20px;
+	float: top-left;
+}
+
+#text{
+	text-align: center;
+}
+
+aside{
+width: 20%;
+float: left;
+border: solid black 5px;
+display: inline;
+margin: 10% 5% 0px 0px;
+}
+
+#navbar {
+	text-decoration: none;
+}
+
+section{
+	width: 50%;
+	float: right;
+	display: inline;
+	margin: 5% 10% 0px 0px;
+}
+
+#main{
+	
+}
+
+section{
+	height: 100%;
+}
