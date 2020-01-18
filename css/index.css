@@ -42,6 +42,7 @@ section{
 
 section{
 	height: 100%;
+	display: block;
 }
 
 #1{
