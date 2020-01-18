@@ -45,17 +45,21 @@ section{
 }
 
 #1{
-    float: right;
+	float: right;
+	width: 33%;
 }
 
-#1{
-    float: middle;
+#2{
+	float: middle;
+	width: 33%;
 }
 
-#1{
-    float: left;
+#3{
+	float: left;
+	width: 33%;
 }
 
-#1{
-    float: bottom;
+#4{
+	float: bottom;
+	width: 100%;
 }
