@@ -44,7 +44,7 @@ section{
 }
 
 img{
-	box-sizing: border-box;
-	width: 10px;
-	height: 10px;
+	box-sizing: content-box;
+	width: 25px;
+	height: 25px;
 }
