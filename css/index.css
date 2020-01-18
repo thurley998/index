@@ -23,6 +23,7 @@ float: left;
 border: solid black 5px;
 display: inline;
 margin: 10% 5% 0px 0px;
+position: relative;
 }
 
 #navbar {
