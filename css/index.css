@@ -43,27 +43,8 @@ section{
 	height: 100%;
 }
 
-#1{
-	float: right;
-	width: 33%;
-}
-
-#2{
-	float: middle;
-	width: 33%;
-}
-
-#3{
-	float: left;
-	width: 33%;
-}
-
-#4{
-	float: bottom;
-	width: 100%;
-}
-
 img{
+	box-sizing: border-box;
 	width: 10px;
 	height: 10px;
 }
