@@ -32,7 +32,6 @@ margin: 10% 5% 0px 0px;
 section{
 	width: 50%;
 	float: right;
-	display: inline;
 	margin: 5% 10% 0px 0px;
 }
 
@@ -42,7 +41,6 @@ section{
 
 section{
 	height: 100%;
-	display: block;
 }
 
 #1{
