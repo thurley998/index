@@ -43,3 +43,19 @@ section{
 section{
 	height: 100%;
 }
+
+#1{
+    float: right;
+}
+
+#1{
+    float: middle;
+}
+
+#1{
+    float: left;
+}
+
+#1{
+    float: bottom;
+}
